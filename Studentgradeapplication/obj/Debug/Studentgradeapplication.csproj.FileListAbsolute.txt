@@ -1,0 +1,10 @@
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\bin\Debug\Studentgradeapplication.exe.config
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\bin\Debug\Studentgradeapplication.exe
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\bin\Debug\Studentgradeapplication.pdb
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.csproj.AssemblyReference.cache
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.Form1.resources
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.Properties.Resources.resources
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.csproj.GenerateResource.cache
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.exe
+D:\solutions visual studio\Studentgradeapplication\Studentgradeapplication\obj\Debug\Studentgradeapplication.pdb
