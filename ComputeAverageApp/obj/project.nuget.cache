@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8ZKZohHkrDEj1grNbxNkKa4/SdJTlT64G4Z1GMf+YqaITUku/p2X/R92HW1iQ8ySbvq8Tn4MayTfbkBwpTlOw==",
+  "success": true,
+  "projectFilePath": "D:\\solutions visual studio\\ComputeAverageApp\\ComputeAverageApp\\ComputeAverageApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
